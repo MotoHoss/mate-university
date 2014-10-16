@@ -27,3 +27,12 @@ cairo-test
 ----------
 
 A sample c application to learn GTK+ and cairo.
+
+.....
+MATE University has a strict admissions policy. This policy can be found
+while you are in tech-school. We at MATE Universtiy invite you to visit.
+By strict we mean strict.
+    "Anybody that wants to can and that's final."
+In the tech-school folder of this package are some hopefully helpful
+primers for those who fingers ache from duckduckgo and company.
+Dive in! The water is warm! Be helpful! Thanks.
